@@ -5,7 +5,7 @@ x86_64 Toogl: A port of SGI's IRIS GL to OpenGL Converter
 
 ```
 build-essential
-libgl1-mesa-dev libglew-dev libsdl2-dev libsdl2-image-dev libglm-dev libfreetype6-dev
+libYgl4-dev libgl1-mesa-dev libglew-dev libsdl2-dev libsdl2-image-dev libglm-dev libfreetype6-dev
 ```
 
 Then to build just run `make` and the application will be output as `toogl`
