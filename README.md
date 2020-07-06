@@ -17,7 +17,9 @@ Then to build just run `make` and the application will be output as `toogl`
 ```
 
 ``-c`` : Don't clutter up the output with comments
+
 ``-w`` : Don't remove window manager calls like ``winopen()`` and ``mapcolor()``
+
 ``-q`` : Don't remove event queue calls like ``qread()`` and ``setvaluator()``
 
 For more info, visit http://retrogeeks.org/sgi_bookshelves/SGI_Developer/books/OpenGL_Porting/sgi_html/ch02.html
