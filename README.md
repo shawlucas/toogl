@@ -26,3 +26,5 @@ For more info, visit http://retrogeeks.org/sgi_bookshelves/SGI_Developer/books/O
 
 I've found that the program works best when working with small functions.
 
+Also the program crashes if you have any whitespace between lines for some reason
+
